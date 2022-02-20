@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.enableShellIntegration": true,
+    "jupyter.kernels.filter": [
+        {
+            "path": "/usr/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/local/bin/python3",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
